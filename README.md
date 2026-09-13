@@ -122,12 +122,12 @@ Mission: Securing infrastructure, hunting vulnerabilities, and continuous hands-
   <tr>
     <td align="center">
       <a href="https://github.com/HyperJay-456">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=HyperJay-456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=00e5ff&icon_color=00ff9d&text_color=94a3b8" alt="Jay's GitHub Stats" />
+        <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=HyperJay-456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=00e5ff&icon_color=00ff9d&text_color=94a3b8" alt="Jay's GitHub Stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/HyperJay-456">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperJay-456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=00e5ff&text_color=94a3b8" alt="Top Languages" />
+        <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HyperJay-456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=00e5ff&text_color=94a3b8" alt="Top Languages" />
       </a>
     </td>
   </tr>
