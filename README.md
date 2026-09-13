@@ -12,7 +12,7 @@
 
 [![Status](https://img.shields.io/badge/Status-🟢_Available_for_Internships-00ff9d?style=for-the-badge&logo=shield&logoColor=0a0d14)](mailto:jayt0667@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-jayt0667-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jayt0667)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-thakur-6589a0333)
 [![Email](https://img.shields.io/badge/Email-jayt0667%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayt0667@gmail.com)
 
 </div>
@@ -107,10 +107,10 @@ Mission: Securing infrastructure, hunting vulnerabilities, and continuous hands-
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
-| 🔐 **Password Entropy & Security Analyzer** | `JavaScript`, `OWASP`, `CSPRNG`, `HTML5/CSS3` | Evaluates Shannon entropy ($E = L \times \log_2 N$), OWASP criteria, crack-time resistance, and generates cryptographic keys using CSPRNG. | [Code](https://github.com/HyperJay-456) |
-| 🛡️ **Cybersecurity Analyst Portfolio** | `Modern Web`, `Dynamic Terminal`, `Canvas FX` | High-tech SOC HUD portfolio featuring an interactive CLI console emulator, live cybersecurity tools, and responsive cyber aesthetic. | [Code](https://github.com/HyperJay-456) |
-| 🌐 **Binary & Beyond Web Platform** | `Vanilla JS`, `CSS Design System`, `Test Suite` | Modern responsive interactive web application built with zero-bloat vanilla architecture and 100% test pass rate. | [Code](https://github.com/HyperJay-456) |
-| 💳 **Secure Expense Tracker** | `Node.js`, `Express`, `MongoDB`, `REST API` | Scalable ledger backend with transaction security, JWT authentication, schema validation, and CRUD endpoints. | [Code](https://github.com/HyperJay-456) |
+| 🔐 **Password Entropy & Security Analyzer** | `JavaScript`, `OWASP`, `CSPRNG`, `HTML5/CSS3` | Evaluates Shannon entropy ($E = L \times \log_2 N$), OWASP criteria, crack-time resistance, and generates cryptographic keys using CSPRNG. | [Code](https://github.com/HyperJay-456/HyperJay-456.github.io) |
+| 🛡️ **Cybersecurity Analyst Portfolio** | `Modern Web`, `Dynamic Terminal`, `Canvas FX` | High-tech SOC HUD portfolio featuring an interactive CLI console emulator, live cybersecurity tools, and responsive cyber aesthetic. | [Code](https://github.com/HyperJay-456/HyperJay-456.github.io) |
+| 🌐 **Binary & Beyond Web Platform** | `Vanilla JS`, `CSS Design System`, `Test Suite` | Modern responsive interactive web application built with zero-bloat vanilla architecture and 100% test pass rate. | [Code](https://github.com/HyperJay-456/HyperJay-456.github.io) |
+| 💳 **Secure Expense Tracker** | `Node.js`, `Express`, `MongoDB`, `REST API` | Scalable ledger backend with transaction security, JWT authentication, schema validation, and CRUD endpoints. | [Code](https://github.com/HyperJay-456/HyperJay-456.github.io) |
 
 ---
 
@@ -149,7 +149,7 @@ Mission: Securing infrastructure, hunting vulnerabilities, and continuous hands-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jayt0667%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayt0667@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay_Ram_Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay_Ram_Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-thakur-6589a0333)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-jayt0667-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jayt0667)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00e5ff?style=for-the-badge&logo=firefox-browser&logoColor=0a0d14)](https://hyperjay-456.github.io/)
 
